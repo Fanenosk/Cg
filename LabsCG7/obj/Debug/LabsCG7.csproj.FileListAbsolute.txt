@@ -1,0 +1,15 @@
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\bin\Debug\LabsCG7.exe.config
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\bin\Debug\LabsCG7.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\bin\Debug\LabsCG7.pdb
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.csprojAssemblyReference.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\MainWindow.g.cs
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\App.g.cs
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7_MarkupCompile.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7_MarkupCompile.lref
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\MainWindow.baml
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.g.resources
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.Properties.Resources.resources
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.csproj.GenerateResource.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.csproj.CoreCompileInputs.cache
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.exe
+C:\Users\Fanen\OneDrive\Рабочий стол\кг\LabsCG7\LabsCG7\obj\Debug\LabsCG7.pdb
